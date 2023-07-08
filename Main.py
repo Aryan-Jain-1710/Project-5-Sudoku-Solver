@@ -93,9 +93,11 @@ def solve(board):
     return False
 
 
+print("\n\nOriginal Sudoku: \n\n")
 printboard(boards)
-print("\n\n")
+print("\n")
 solve(boards)
-print("\n\n")
+print("\nSolved Sudoku: \n\n")
 printboard(boards)
-print("\n", count)
+print("\n\nNumber of permutations: ", count)
+print("\n\n")

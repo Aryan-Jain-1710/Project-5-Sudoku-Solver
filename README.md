@@ -22,7 +22,7 @@ I created this project to learn more about backtracking algorithms and to practi
     - Python
 
 ## Setup
-Make sure you have the latest version of Python installed.
+Make sure to git clone this repository. After cloning, make sure the latest version of Python is installed and the project is ready for use!
 
 
 ## Repository Information

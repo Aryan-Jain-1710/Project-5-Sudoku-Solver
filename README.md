@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-A simple terminal based sudoku solver that can solve any given sudoku with varying difficulties. It can also display the number of times the program ran to arrive at the solution while showing all permutations visually.
+A simple terminal-based sudoku solver that can solve any given sudoku with varying difficulties. It can also display the number of times the program ran to arrive at the solution while showing all permutations visually.
 
 
 ## Table of Contents
@@ -14,7 +14,7 @@ A simple terminal based sudoku solver that can solve any given sudoku with varyi
 
 
 ## Purpose
-I created this project to learn more about backtracking algorithms and to practice my python skills. Due to my avid interest in sudoku, I wanted to create a sudoku solver that would be capable of solving any sudoku. I also wanted to add the functionality to show all permutations visually and to display the number of times the program ran to arrive at the solution. 
+I created this project to learn more about backtracking algorithms and to practice my Python skills. Due to my avid interest in sudoku, I wanted to create a sudoku solver that would be capable of solving any sudoku. I also wanted to add the functionality to show all permutations visually and to display the number of times the program ran to arrive at the solution. 
 
 
 ## Technologies and Libraries Used

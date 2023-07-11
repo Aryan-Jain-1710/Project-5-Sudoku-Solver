@@ -26,7 +26,7 @@ Make sure to git clone this repository. After cloning, make sure the latest vers
 
 
 ## Repository Information
-This repository has a single main.py python file.
+This repository has a single main.py Python file.
 
 
 ## Usage
@@ -36,4 +36,4 @@ To use the application:
 - The program will display the original board and the solved board with the number of times the application ran to arrive at the solution.
 - The main.py file can be edited to display all permutations visually.
 
-<img src="image.png" width="300">
+<kbd><img src="image.png" width="300"></kbd>
